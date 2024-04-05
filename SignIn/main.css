@@ -1,0 +1,119 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v7_29 {
+  width: 428px;
+  height: 926px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_30 {
+  width: 428px;
+  height: 926px;
+  background: url("../images/v7_30.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v7_33 {
+  width: 216px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 211px;
+  left: 106px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_34 {
+  width: 292px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 297px;
+  left: 85px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_35 {
+  width: 182px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 440px;
+  left: 49px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_37 {
+  width: 210px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 547px;
+  left: 4px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v7_36 {
+  width: 267px;
+  height: 44px;
+  background: rgba(245,245,245,0.20999999344348907);
+  opacity: 1;
+  position: absolute;
+  top: 470px;
+  left: 140px;
+  overflow: hidden;
+}
+.v7_38 {
+  width: 267px;
+  height: 44px;
+  background: rgba(245,245,245,0.20999999344348907);
+  opacity: 1;
+  position: absolute;
+  top: 588px;
+  left: 140px;
+  overflow: hidden;
+}
+.v7_39 {
+  width: 250px;
+  height: 71px;
+  background: rgba(47,22,121,1);
+  opacity: 1;
+  position: absolute;
+  top: 706px;
+  left: 109px;
+  border-radius: 50%;
+}
+.v7_40 {
+  width: 120px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 725px;
+  left: 214px;
+  font-family: Inter;
+  font-weight: Extra Bold;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
